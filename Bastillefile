@@ -1,0 +1,3 @@
+ARG local_cache=10.0.0.11
+CP usr /
+RENDER /usr/local/etc/pkg/repos/FreeBSD.conf
